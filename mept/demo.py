@@ -34,20 +34,27 @@ def main():
 
     # print(objects)
 
-    # TODO: incorporate all demonstrations
     demo_dict = objects[0]
     demo_actions = []
     demo_rewards = []
     demo_obs = []
     demo_init_state = []
+
+    demo_actions.append(demo_dict[0].get('actions'))
+    demo_rewards.append(demo_dict[0].get('rewards'))
+    demo_obs.append(demo_dict[0].get('observations'))
+
+    """ THIS IS FOR ALL 25 DEMO, UN-COMMENT LATER
     for i in range(len(demo_dict)):
         demo_actions.append(demo_dict[i].get('actions'))
         demo_rewards.append(demo_dict[i].get('rewards'))
         demo_obs.append(demo_dict[i].get('observations'))
         demo_init_state.append(demo_dict[i].get('init_state_dict'))
         print(len(demo_actions), len(demo_obs))
+    """
 
     print(demo_actions)
+    print(len(demo_actions[0]))
 
 
     demo_pickle.close()
