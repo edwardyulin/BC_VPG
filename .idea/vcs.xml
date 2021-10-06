@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/imitation_learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mept/mj_envs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mept/mj_envs/dependencies/Adroit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mept/mjrl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mept/mujoco-py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mept/sit-imitation-learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mept/spinningup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mj_envs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mj_envs/dependencies/Adroit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mj_envs_bak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mj_envs_bak/dependencies/Adroit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mj_envs_info" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mj_envs_info/dependencies/Adroit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mjrl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mujoco-py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sit-imitation-learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vpg" vcs="Git" />
+  </component>
+</project>
